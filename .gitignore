@@ -1,7 +1,7 @@
 # Ignore specific files and folders
 core-plugins.json
 graph.json
-workspace
+/workspace
 workspace.json
 # Ignore plugins related files and folders
 daily-notes.json
