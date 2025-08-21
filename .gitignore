@@ -1,0 +1,11 @@
+# Ignore specific files and folders
+core-plugins.json
+graph.json
+workspace
+workspace.json
+# Ignore plugins related files and folders
+daily-notes.json
+plugins/obsidian-commits/data.json
+plugins/obsidian-day-planner/data.json
+plugins/templater-obsidian/data.json
+plugins/remember-cursor-position/cursor-positions.json
