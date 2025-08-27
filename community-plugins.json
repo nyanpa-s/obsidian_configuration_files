@@ -3,8 +3,9 @@
   "obsidian-hover-editor",
   "table-editor-obsidian",
   "templater-obsidian",
-  "pkmer",
   "notion-like-tables",
   "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "pkmer",
+  "pdf-plus"
 ]
